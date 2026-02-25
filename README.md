@@ -4,10 +4,10 @@
 
 This is the working area for the individual Internet-Draft, "TODO - Your title".
 
-* [Editor's Copy](https://fcalabri.github.io/bmwg-ai-fabric-training-bench/#go.draft-todo-yourname-protocol.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-todo-yourname-protocol)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-todo-yourname-protocol)
-* [Compare Editor's Copy to Individual Draft](https://fcalabri.github.io/bmwg-ai-fabric-training-bench/#go.draft-todo-yourname-protocol.diff)
+* [Editor's Copy](https://fcalabri.github.io/bmwg-ai-fabric-training-bench/#go.draft-bmwg-ai-fabric-training-bench.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-bmwg-ai-fabric-training-bench)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-bmwg-ai-fabric-training-bench)
+* [Compare Editor's Copy to Individual Draft](https://fcalabri.github.io/bmwg-ai-fabric-training-bench/#go.draft-bmwg-ai-fabric-training-bench.diff)
 
 
 ## Contributing
